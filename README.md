@@ -8,4 +8,4 @@ Steps are as follows.
 - Mask data based on India Geojason.
 - Fomat data suitably for KMeans clustering.
 - Run KMeans.
-- Extract labels and visualize.
+- Reshape labels and visualize.
