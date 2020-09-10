@@ -1,5 +1,5 @@
 # India_climate_map. 
-Create a six cluster climate map for India using mean monthly average rainfall and temperature data for last forty years from Copernicus climate data store. 
+Create a five cluster climate map for India using mean monthly average rainfall and temperature data for last forty years from Copernicus climate data store. 
 Steps are as follows.
 
 - Install Geopandas, Rasterio and Rioxarray.
